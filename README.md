@@ -1,3 +1,7 @@
+Figma link --  https://www.figma.com/community/file/1698042066540804699
+
+
+
 # Finora – Personal Finance Platform 🚀
 > *"Take Control of Your Money."*
 
